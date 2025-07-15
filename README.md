@@ -1,5 +1,4 @@
-# codedbycopper.github.io
-✨ The live portfolio of M.West, a soul-led content strategist and product-minded copywriter. Explore content systems, writing samples, and UX-focused storytelling—rooted in clarity, connection, and sacred structure.
+
 # ✨ M.West | Portfolio of Coded by Copper
 
 Welcome to my creative command center. I’m **M.West**—a soul-led content strategist, copywriter, and product-minded operator with 10+ years of experience across fintech, wellness, customer experience, and SaaS.
@@ -14,7 +13,7 @@ This space is a curated showcase of my writing style, UX-focused storytelling, a
 - A voice that bridges clarity with connection
 
 ## ⚙️ Tools I Use
-Notion • Jira • Asana • Slack • GSuite • Zoom
+Notion • Jira • Asana • Slack • GSuite • Zoom  
 And now... GitHub 💻
 
 ## 🧿 About Coded by Copper
